@@ -1,0 +1,19 @@
+<DOCTYPE html>
+<html lang="sv">
+
+	<head>
+		<meta charset="utf-8">
+		<title> Sida 2 </title>
+		<link rel="stylesheet" href="sid2.css">
+	</head>
+	<body id="sida2"> 
+		<div class="wrapper">
+		<header>
+			<h1> Sida2 </h1>
+		</header>
+		<nav> 
+			<ul>
+				<li><a href="index.html">Hem</a></li>
+				<li><a href="Sida2.html">Sida 2</a></li>
+				<li><a href="Sida3.html">Sida 3</a></li>
+			</ul>
