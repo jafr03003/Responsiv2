@@ -1,0 +1,60 @@
+body{
+	display:grid;
+	background-color#D89E91;
+	grid-template-columns:1fr 1fr 1fr 1fr;
+	grid-template-rows:100px 50px auto 50px;
+	grid-template-areas:
+	"header header header header"
+	"nav nav nav nav"
+	"main1 main2 main3 aside"
+	"footer footer footer footer"
+	grid-gap: 0.2rem;
+}
+
+header{
+	grid-area:header;
+	padding: 10px;
+	border: 3px solid #fff;
+	font-size: 20pt;
+}
+
+header h1{
+	text-align: center;
+}
+
+nav{
+	border: 3px solid #fff;
+	background-color: white;
+	grid-area:nav;
+	color: white;
+
+}
+
+nav ul{
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr 1fr;
+	color: white;
+	text-decoration:none;
+}
+
+footer{
+	grid-area:footer;
+	text-align:center;
+	border: 3px solid #fff;
+	font-size: 20pt;
+}
+
+main{
+	align:center;
+}
+
+section:nth-child(1){
+	grid-area:main1;
+}
+section:nth-child(2){
+	grid-area:main2;
+}
+
+@media all and (max-width:500 px) 
+{
+	
