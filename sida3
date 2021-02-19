@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title> Sida 2 </title>
+		<title> Sida3.html </title>
 		<link rel="stylesheet" href="sid2.css">
 	</head>
 	<body id="sida2"> 
@@ -17,3 +17,18 @@
 				<li><a href="Sida2.html">Sida 2</a></li>
 				<li><a href="Sida3.html">Sida 3</a></li>
 			</ul>
+					
+				<main>
+			<section>
+				Lorem ipsum dolor sit amet, eos everti volumus et, ex commodo vocibus fabellas vel. Habeo assum est an, his no harum ludus blandit, vis assum nullam repudiare te. Eum tale prodesset te, an eam deleniti pertinax, simul tation verterem no sed. In nam equidem assentior, ei amet adhuc legendos sed, duo quis hendrerit ne. Eleifend consulatu ex mei, id mazim tibique cum.
+
+				Duo no iudico decore comprehensam, unum iudico nostro nec te. Ea eos apeirian insolens concludaturque, pro harum nostrum offendit ad. Vim et quas postea praesent, an solet facilisi mei. Sit te semper verterem adolescens, sea te natum aeterno. Habeo singulis per te, facilisis voluptaria ius in.			
+			</section>
+		  
+		 </main>
+			<footer>
+				<p> Jakob Freij TE19B </p>      
+			</footer>  
+
+	</body>     
+</html>
